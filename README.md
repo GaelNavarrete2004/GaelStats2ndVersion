@@ -27,6 +27,29 @@ Se mejoro el apartado de la navbar, un mejor diseño para los celulares, y para 
 
 Versión computadora:
 
+![image](https://github.com/user-attachments/assets/275ee91a-1e53-40d4-852c-fc8c7ffd67fd)
+
+![image](https://github.com/user-attachments/assets/c642cb6f-b23d-46c2-a779-bb3be83ccbad)
+
+![image](https://github.com/user-attachments/assets/1280244f-6654-4475-900c-ff7849d71d35)
+
+![image](https://github.com/user-attachments/assets/6bcc2dfa-6a98-482f-a328-fa9feb1efbd1)
+
+![image](https://github.com/user-attachments/assets/505c0974-f585-4f18-9a55-cc74dae6d11e)
+
+Versión celular:
+
+![image](https://github.com/user-attachments/assets/cb07c602-f6a6-4684-801e-1cec4f0fa735)
+
+![image](https://github.com/user-attachments/assets/628faeab-6833-4a7e-83a9-a7962379a6bf)
+
+![image](https://github.com/user-attachments/assets/efd31105-6a19-4bbf-9c5c-4b2e741b742a)
+
+![image](https://github.com/user-attachments/assets/b50f2665-dce5-4084-83c2-1e067649e3b8)
+
+![image](https://github.com/user-attachments/assets/850c83bf-44a3-4381-896c-a367ff38fefb)
+
+![image](https://github.com/user-attachments/assets/a8a248c0-65fb-4826-bb19-d1cdd7082b97)
 
 
 Y eso sería todo conectado y funcionando de manera correcta :)
